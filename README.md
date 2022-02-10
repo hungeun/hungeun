@@ -20,4 +20,3 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-이제 마치 싸이월드처럼 제 프로필에 방문한 사람 수를 알 수 있습니다!(싸이월드 추억..)
